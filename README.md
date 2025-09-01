@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=1E90FF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Full+Stack+Java+Developer;Spring+Boot;Problem+Solver+%7C+Tech+Enthusiast;Open+Source+%7C+Continuous+Learner">
 </p>
 
-<img align="right" alt="coding" width="400" src="code.gif">
+<img align="right" alt="coding" width="410" src="code.gif">
 
 ---
 
