@@ -77,7 +77,3 @@
 
 ---
 
-### 🌊 Contribution Waves  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harithrive/harithrive/output/github-contribution-grid-snake-dark.svg" alt="Waves animation"/>
-</p>
