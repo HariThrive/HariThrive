@@ -10,14 +10,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=1E90FF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Full+Stack+Java+Developer;Spring+Boot;Problem+Solver+%7C+Tech+Enthusiast;Open+Source+%7C+Continuous+Learner">
 </p>
 
-<img align="right" alt="coding" width="410" src="code.gif">
-
----
-
 ### 🌟 About Me  
-- 🔭 Currently working on **Financial Accounting Management**  
-- 👨‍💻 My projects are available at [Portfolio](https://www.google.com)  
-- 📫 Reach me at **hramgain@gmail.com**  
+
+<img align="right" alt="coding" width="380" src="code.gif">
+
+I’m Hariram, a **Full Stack Java Developer** passionate about building scalable and efficient applications.  
+At my current company, I contribute to the development of **Financial Accounting Management systems**, working across the stack to design, implement, and optimize business-critical solutions.  
+
+Beyond work, I enjoy exploring new technologies, solving real-world problems through code, and continuously improving my craft.  
+
+- 🚀 Skilled in **Java, Spring Boot, and modern web technologies**  
+- 🧩 Problem solver with a focus on writing clean, maintainable code  
+- 🌱 Lifelong learner, always curious about emerging tools and best practices  
+- 📂 Have a look at my [Portfolio](https://www.google.com)  
+- 📫 Reach me anytime at **hramgain@gmail.com**  
+
+
 
 ---
 
