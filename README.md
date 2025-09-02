@@ -1,7 +1,10 @@
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm Hariram V</h1>
 <h3 align="center">🚀 A Passionate Full Stack Java Developer from India</h3>
-
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harithrive&label=Profile%20Views&color=1E90FF&style=flat" alt="harithrive" />
+</p>
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=1E90FF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Full+Stack+Java+Developer;Spring+Boot;Problem+Solver+%7C+Tech+Enthusiast;Open+Source+%7C+Continuous+Learner">
